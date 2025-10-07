@@ -103,3 +103,8 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+/* 添加按钮光标样式 */
+button {
+  cursor: pointer;
+}

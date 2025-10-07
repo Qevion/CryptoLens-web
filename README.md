@@ -8,3 +8,7 @@ https://jup.ag/perps
 https://dydx.trade/trade/SOL-USD
 
 https://www.asterdex.com/en/futures/v1/SOLUSDT
+
+## 技术栈
+
+vite + react + ts + shadcn/ui + TailwindCSS
