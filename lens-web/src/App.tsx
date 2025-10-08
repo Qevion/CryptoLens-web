@@ -2,6 +2,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import { ButtonTest } from './components/ButtonTest'
+import { LChart } from './components/LChart'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       </div>
       <h1 className="mb-4">Vite + React</h1>
       <ButtonTest />
+      <LChart />
     </div>
   )
 }
